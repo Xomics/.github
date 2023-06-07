@@ -1,4 +1,4 @@
-## The Netherlands X-omics Initiative
+## Welcome
 
 Visit our website at https://x-omics.nl/.
 
